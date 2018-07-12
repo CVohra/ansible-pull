@@ -1,0 +1,6 @@
+- name: Sample
+  hosts: localhost
+  tasks:
+    - debug:
+        msg: Hello
+        
